@@ -69,12 +69,10 @@
     <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="c++" width="40" height="40"/>
   </p>
 
+   <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="40"/>
+  </p>
 
 
   
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceefast&show_icons=true&locale=en&layout=compact" alt="iceefast" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iceefast&show_icons=true&locale=en" alt="iceefast" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iceefast&" alt="iceefast" /></p>
