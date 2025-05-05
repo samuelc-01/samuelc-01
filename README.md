@@ -69,9 +69,7 @@
     <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="c++" width="40" height="40"/>
   </p>
 
-   <a href="https://arduino.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="40"/>
-  </p>
+
 
   
 
