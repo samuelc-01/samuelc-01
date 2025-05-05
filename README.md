@@ -56,17 +56,24 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
   </a>
+
+   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a> 
   
+  <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="c++" width="40" height="40"/>
+  </p>
+
+   <a href="https://arduino.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="40"/>
+  </p>
 
   
-
-  <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank">
-    <img src="https://seeklogo.com/vector-logo/249774/c" alt="c++" width="40" height="40"/>
-  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceefast&show_icons=true&locale=en&layout=compact" alt="iceefast" /></p>
 
