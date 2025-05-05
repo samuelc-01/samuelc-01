@@ -64,8 +64,8 @@
 
   
 
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <a href="https://learn.microsoft.com/en-us/cpp/cpp/?view=msvc-170" target="_blank">
+    <img src="https://seeklogo.com/vector-logo/249774/c" alt="c++" width="40" height="40"/>
   </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iceefast&show_icons=true&locale=en&layout=compact" alt="iceefast" /></p>
