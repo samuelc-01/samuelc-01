@@ -14,13 +14,12 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/samuel-cristian/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel (cristian) dev. front-end" height="40" width="40" />
+  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin-profile" height="40" width="40" />
   </a>
-  </p>
 
   <p align="left">
   <a href="https://t.me/iceefast" target="_blank">
-    <img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-1024.png" target="_blank"alt="telegram" height="40" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" target="_blank"alt="telegram" height="40" width="40"/>
   </a>
 </p>
 
