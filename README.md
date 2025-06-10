@@ -11,11 +11,11 @@
 
 | Area               | Technologies / Tools                             |
 |--------------------|-------------------------------------------------|
-| Languages          | Python, Rust, JavaScript, SQL                    |
-| Frameworks         | FastAPI, Flask, React                            |
+| Languages          | Python, C++, JavaScript, SQL                    |
+| Frameworks         | FastAPI, Flask, Vite, Conda                           |
 | Databases          | PostgreSQL, MySQL, SQLite                         |
 | Networking         | TCP/IP, DHCP, DNS, VPN, Firewalls                |
-| Cybersecurity      | Pentesting, Vulnerability Analysis, IDS/IPS     |
+| Cybersecurity      | Vulnerability Analysis, IDS/IPS     |
 | Tools              | Wireshark, Snort, Nmap, Metasploit               |
 
 
