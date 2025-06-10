@@ -22,7 +22,6 @@
 ---
 - ❄️ **Developer** and **web3 technology enthusiast**
 
-- 💻 **I work solving problems, creating systems**
 
 <h3 align="left">Connect with me:</h3>
 
