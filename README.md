@@ -6,6 +6,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+## Tecnologias e áreas de atuação
+
+| Área               | Tecnologias / Ferramentas                         |
+|--------------------|-------------------------------------------------|
+| Linguagens         | Python, C++, JavaScript, SQL                     |
+| Frameworks         | FastAPI, Flask, React                            |
+| Banco de dados     | PostgreSQL, MySQL, SQLite                         |
+| Redes              | TCP/IP, DHCP, DNS, VPN, Firewalls                |
+| Cibersegurança     | Análise de vulnerabilidades, IDS/IPS   |
+| Ferramentas        | Wireshark, Snort, Nmap, Metasploit               |
+
+---
 - ❄️ **Developer** and **web3 technology enthusiast**
 
 - 💻 **I work solving problems, creating systems**
