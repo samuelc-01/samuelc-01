@@ -81,8 +81,8 @@
    <a href="https://www.arduino.cc/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="40"/>
 
-   <a href="https://vite.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="vite" width="40" height="40"/>
+   <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://vectorwiki.com/images/yMwYe__fastapi.svg" alt="vite" width="40" height="40"/>
 
  <a href="https://flutter.dev/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
