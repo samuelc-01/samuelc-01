@@ -6,19 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-## Technologies and Areas of Expertise
-
-| Area               | Technologies / Tools                             |
-|--------------------|-------------------------------------------------|
-| Languages          | Python, C++, JavaScript, SQL                    |
-| Frameworks         | FastAPI, Flask, Vite, Conda                           |
-| Databases          | PostgreSQL, MySQL, SQLite                         |
-| Networking         | TCP/IP, DHCP, DNS, VPN, Firewalls                |
-| Cybersecurity      | Vulnerability Analysis, IDS/IPS     |
-| Tools              | Wireshark, Snort, Nmap, Metasploit               |
-
-
 ---
 - ❄️ **Developer** and **web3 technology enthusiast**
 
