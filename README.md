@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Samuel</h1>
-<h3 align="center">A developer from 🇧🇷</h3>
+<h1 align="center">Hi 👋, I'm Samuel Cristian</h1>
+<h3 align="center">A FullStack developer from 🇧🇷</h3>
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/6PUE1PAsXQUAAAAM/scaler-create-impact.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iceefast&label=Profile%20views&color=0e75b6&style=flat" alt="iceefast" /> </p>
 
