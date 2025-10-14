@@ -44,8 +44,8 @@
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
     </a> 
     
-  <a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/bitcoin/bitcoin-icon.svg" alt="git" width="40" height="40"/> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> 
   </a>
 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
@@ -71,8 +71,8 @@
    <a href="https://fastapi.tiangolo.com/" target="_blank">
     <img src="https://vectorwiki.com/images/yMwYe__fastapi.svg" alt="vite" width="40" height="40"/>
 
- <a href="https://flutter.dev/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+ <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21~bgwhite.svg" alt="mongodb" width="50" height="50"/>
      
   </p>
 
