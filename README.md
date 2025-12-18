@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="350" src="https://c.tenor.com/6PUE1PAsXQUAAAAM/scaler-create-impact.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iceefast&label=Profile%20views&color=0e75b6&style=flat" alt="iceefast" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 ---
 - ❄️ **Developer** and **web3 technology enthusiast**
