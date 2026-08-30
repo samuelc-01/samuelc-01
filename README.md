@@ -34,12 +34,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samuelc-01&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="165" src="https://github-readme-stats-two-kappa-29.vercel.app/api?username=samuelc-01&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelc-01&theme=tokyonight&hide_border=true" alt="streak stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelc-01&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+  <img src="https://github-readme-stats-two-kappa-29.vercel.app/api/top-langs/?username=samuelc-01&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </div>
 
 ---
