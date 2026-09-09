@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Samuel%20Cristian&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FullStack%20Developer%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=500&lines=Developer+%26+Web3+enthusiast+%E2%9D%84%EF%B8%8F;Full+Stack+%7C+Node.js+%2B+TypeScript;Hardware+%2B+Software+integration;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=550&lines=Developer+%26+Web3+enthusiast+%E2%9D%84%EF%B8%8F;Software+Engineer+%7C+Node.js+%2B+TypeScript;Hardware+%2B+Software+integration;I+know+that+I+know+nothing+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=iceefast&label=Profile%20views&color=0e75b6&style=flat" alt="iceefast" />
